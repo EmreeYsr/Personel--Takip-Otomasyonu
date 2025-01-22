@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|c:\\users\\ewre\\desktop\\232516071 emreya\u015Far\\personeltakipi\\personeltakipi\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\frmlistep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\frmlistep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\frmlisteg\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\frmlisteg\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\frmlisteg\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\frmlisteg\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\personeltakipi\\frmlistep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF0968C-2ED5-4E4A-8C10-B31309914C0A}|PersonelTakipi\\PersonelTakipi.csproj|solutionrelative:personeltakipi\\frmlistep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\AdminPanel.cs",
+              "RelativeToolTip": "PersonelTakipi\\AdminPanel.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAcwPMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:45:00.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "PersonelTakipi\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:04:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmAdminGiris.cs",
+              "RelativeToolTip": "PersonelTakipi\\FrmAdminGiris.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:37:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAdminGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmAdminGiris.cs [Design]",
+              "RelativeToolTip": "PersonelTakipi\\FrmAdminGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:37:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmListeP.cs",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeP.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\FrmListeP.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeP.cs",
+              "RelativeToolTip": "PersonelTakipi\\FrmListeP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwJYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:37:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmListeP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeP.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\FrmListeP.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeP.cs [Design]",
+              "RelativeToolTip": "PersonelTakipi\\FrmListeP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:37:19.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmListeG\u00C7.cs",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeG\u00C7.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\FrmListeG\u00C7.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeG\u00C7.cs",
+              "RelativeToolTip": "PersonelTakipi\\FrmListeG\u00C7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:37:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmListeG\u00C7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeG\u00C7.cs",
+              "RelativeDocumentMoniker": "PersonelTakipi\\FrmListeG\u00C7.cs",
+              "ToolTip": "C:\\Users\\EWRE\\Desktop\\232516071 EMREYA\u015EAR\\PersonelTakipi\\PersonelTakipi\\FrmListeG\u00C7.cs [Design]",
+              "RelativeToolTip": "PersonelTakipi\\FrmListeG\u00C7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:26:46.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

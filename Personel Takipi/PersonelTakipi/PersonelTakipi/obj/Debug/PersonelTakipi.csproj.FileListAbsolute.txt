@@ -1,0 +1,219 @@
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe.config
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.AssemblyReference.cache
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.Properties.Resources.resources
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.GenerateResource.cache
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.CoreCompileInputs.cache
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.exe
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.AdminPanel.resources
+C:\Users\EWRE\source\repos\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmAdminGiris.resources
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.AssemblyReference.cache
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.AdminPanel.resources
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmAdminGiris.resources
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.Properties.Resources.resources
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.GenerateResource.cache
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.CoreCompileInputs.cache
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.exe
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe.config
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.resx
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.cs
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.Designer.cs
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.ML.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.UI.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.Util.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\OpenCvSharp.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\OpenMcdf.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\OpenCvSharp.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\Personel.475F8D72.Up2Date
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.dll
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.xml
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeGÇ.resources
+C:\Users\EWRE\Desktop\personel takip projesi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeP.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.resx
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.cs
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.Designer.cs
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe.config
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.pdb
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.ML.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.CV.UI.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Emgu.Util.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\OpenCvSharp.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\OpenMcdf.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\OpenCvSharp.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.AdminPanel.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmAdminGiris.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeGÇ.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeP.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.Properties.Resources.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\Personel.475F8D72.Up2Date
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.exe
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.pdb
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.resx
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.cs
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.Designer.cs
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe.config
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.pdb
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.AdminPanel.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmAdminGiris.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeGÇ.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeP.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.Properties.Resources.resources
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\Personel.475F8D72.Up2Date
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.exe
+C:\Users\HP\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.resx
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.cs
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.Designer.cs
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe.config
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.xml
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.AssemblyReference.cache
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.AdminPanel.resources
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmAdminGiris.resources
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeGÇ.resources
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeP.resources
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.Properties.Resources.resources
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.GenerateResource.cache
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.CoreCompileInputs.cache
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\Personel.475F8D72.Up2Date
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.exe
+C:\Users\EWRE\Desktop\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.resx
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.cs
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\AdminPanel.Designer.cs
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe.config
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.exe
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\PersonelTakipi.pdb
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\itextsharp.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Buffers.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Memory.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Text.Json.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\bin\Debug\System.ValueTuple.xml
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.AssemblyReference.cache
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.AdminPanel.resources
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmAdminGiris.resources
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeGÇ.resources
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.FrmListeP.resources
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.Properties.Resources.resources
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.GenerateResource.cache
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.csproj.CoreCompileInputs.cache
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\Personel.475F8D72.Up2Date
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.exe
+C:\Users\EWRE\Desktop\232516071 EMREYAŞAR\PersonelTakipi\PersonelTakipi\obj\Debug\PersonelTakipi.pdb
